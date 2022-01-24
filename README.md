@@ -1,2 +1,3 @@
-# recommenderSystemAlgorithm
+# recommender System Algorithm
 This repo is about Recommender System Algorithm. I'm planning to summarize all algorithm including basic machine learning algorithm, recall models, rank models, metrics, practice experience and so on.
+I used to optimize rank model to increase CTR in a recommender system. Recently, I was confident to attend some job interviews. But the result is awful. They asked me not only rank model, but also recall model, basic algorithm, ad algorithm and another things that I've never done. That makes me depressed. So I begin to think why I get this result and how to be an excellent recommeder algorithm engineer. The conclution is that I need to know all recommender knowledge from basic algorithm to SOTA model. That's why I create this repo.
